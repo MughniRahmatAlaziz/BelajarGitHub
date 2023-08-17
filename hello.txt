@@ -1,3 +1,5 @@
-#Percobaan Branch
-
-hallo Teks
+<<<<<<<<<<<development
+Hello world saja
+========
+hello world buat error agar  bisa dilakukan conflict 
+>>>>>>>>main
